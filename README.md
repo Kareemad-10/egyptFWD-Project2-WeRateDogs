@@ -1,4 +1,4 @@
 # egyptFWD-Project2-WeRateDogs
 In this project, we aim to perform some data analysis processes based on the collected data from the **WeRateDogs Twittter account** about dog breeds on the account with the most interesting rates and high reviews from the account participants on twitter as well as some interesting data that were well prepared to be downloaded from Udacity servers programmatically to start our data analysis processes and data wrangling steps as well to achieve useful/meaningful insights about data.
 I needed to perform multiple data wrangling processes to resolve the quality and tidness issues in the data in python.
-I have implemented the projet using **streamlit API** to present a simple demo for the project that can be reviewed from  [my linkedin account](https://www.linkedin.com/in/kareemad-10).
+I have implemented the projet using **streamlit API** to present a simple demo for the project that can be reviewed from  [my linkedin account](https://www.linkedin.com/in/kareemad-10) within the previous posts.
