@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"methodOverride"
+			],
+			[
+				"bo",
+				"bodyParse"
+			],
+			[
+				"co",
+				"compress"
+			],
+			[
+				"e",
+				"env"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"mo",
+				"morgan"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"k",
+				"kareem"
+			],
+			[
+				"h",
+				"http"
+			],
+			[
+				"in",
+				"in_city"
+			],
+			[
+				"c",
+				"cities"
+			],
+			[
+				"input",
+				"input_city"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"ca",
+				"cand"
+			],
+			[
+				"candi",
+				"candidate"
+			],
+			[
+				"S",
+				"string"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"C",
+				"Candidate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/proj-1/app/controllers/index.server.controller.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/proj-1/app/routes/index.server.routes.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/proj-1/package.json",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/proj-1/server.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/proj-1/config/envs/express.js",
+		"/C/Users/kaban/Desktop/DataScienceBooks/notebooks/x1.py",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/package-lock.json",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/package.json",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/server.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/public_html/server.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/server_connect.js",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/node_modules/connect/package.json",
+		"/C/Users/kaban/Desktop/server.js",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/node_modules/emoji-regex/package.json",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/node_modules/package-json/node_modules/semver/package.json",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/node_modules/http-cache-semantics/index.js",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/node_modules/http-cache-semantics/package.json",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/commitlint.config.js",
+		"/C/Users/kaban/AppData/Roaming/npm/node_modules/nodemon/package.json",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/Unconfirmed 571077.crdownload",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/download",
+		"/C/Users/kaban/Desktop/Full Stack Web Developer/web_projects/HTML5Application-1/public_html/app.js",
+		"/C/Users/kaban/Desktop/DataScienceBooks/notebooks/New Text Document.py",
+		"/C/Users/kaban/Desktop/Professional Track_ITIDA_Scholarship/US Bikeshare Data Project1/bikeshare.py",
+		"/C/Users/kaban/Desktop/Professional Track_ITIDA_Scholarship/US Bikeshare Data Project1/copy_copy.py",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/truffle-config.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/package.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/contracts/anothercont.sol",
+		"/C/Users/kaban/Documents/NetBeansProjects/WebApplication/index.js",
+		"/C/Users/kaban/Documents/NetBeansProjects/WebApplication1/package.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/contracts/Migrations.sol",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/contracts/Election.sol",
+		"/C/xampp/htdocs/webapp_2/default.css",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/contracts/Election.sol",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/test/election.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/src/js/app.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/truffle-config.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/package-lock.json",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/package.json",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/Pro_No/config/passport.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/node_modules/dev-ip/lib/dev-ip.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/node_modules/dev-ip/package.json",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/node_modules/debug/src/node.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/contracts/Migrations.sol",
+		"/C/Users/kaban/Desktop/package-lock.json",
+		"/C/Users/kaban/Desktop/Pro_No/server.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/node_modules/debug/package.json",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/Nodejs_Project/index.js",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/Nodejs_Project/index.json",
+		"/C/Users/kaban/Desktop/GP Documents&Work Files/election/src/js/web3.min.js",
+		"/C/Users/kaban/Desktop/election/truffle-config.js",
+		"/F/4th Level - 2st Term/Analysis and Design of Information Systems - 2/Project_2020/PhasesDocuments/Team#32_Project#4_ATM_Phase#1.docx",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/migrations/1_initial_migration.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/pets.json",
+		"/F/4th Level - 1st Term/Computer Architecture - IT/Assembly_Codes/KareemEmad-20160324",
+		"/C/Users/kaban/AppData/Local/Temp/Rar$DIa3320.40074/truffle.js",
+		"/C/Users/kaban/AppData/Local/Temp/Rar$DIa5960.14523/simpleserver.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/css/bootstrap.min.css.map",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/css/bootstrap.min.css",
+		"/F/4th Level - 1st Term/Computer Architecture - IT/Assembly_Codes/Assign#1",
+		"/C/Users/kaban/Desktop/untitled2/untitled2/Question_Controller.js",
+		"/C/Users/kaban/Desktop/untitled2/untitled2/Users_Controller.js",
+		"/C/Users/kaban/Desktop/untitled2/untitled2/views/user/HRWelcomePage.html",
+		"/C/Users/kaban/Desktop/untitled2/untitled2/app.js",
+		"/C/Users/kaban/Desktop/untitled2/untitled2/Exam_Controller.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/migrations/2_deploy_contracts.js",
+		"/C/Users/kaban/package.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/node_modules/yeast/package.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/node_modules/yeast/index.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/node_modules/isarray/index.js",
+		"/H/IA Project/Cexam.html",
+		"/F/HTML_editra_workspace/HTML Lessons/mission.html",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/node_modules/moment/moment.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/node_modules/moment/ender.js",
+		"/H/Assignement 2/web/index.html",
+		"/H/Assignement 2/src/java/validate.java",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/migrations/anothercont.js",
+		"/F/4th Level - 1st Term/Analysis & Design of Information Systems - IS/Project_Analysis1/Deliverables/26_TaName_HillTopApartments.docx",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/build/contracts/Election.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/js/app.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/build/contracts/Elections.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/build/contracts/Migrations.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/contracts/.gitkeep",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/LICENSE",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/bs-config.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/test/.gitkeep",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/index.html",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/src/js/truffle-contract.js",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/election/package-lock.json",
+		"/F/4th Level - 1st Term/GProject_Blockchain_Voting App/migrations/1_initial_migration.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web_app_modules.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
